@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Wiseman"
 title_separator          : "-"
 name                     : &name "Sam Wiseman"
-description              : &description "PhD Student at Harvard University"
+description              : &description "Research Assistant Professort at TTIC"
 url                      : https://swiseman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swiseman.github.io"
@@ -81,7 +81,7 @@ author:
   name             : "Sam Wiseman"
   avatar           : "swiseman_profile.png"
   #bio              : "PhD Candidate in CS at Harvard"
-  location         : "Cambridge, MA"
+  location         : "Chicago, IL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=SDavuPAAAAAJ"
   email            :
