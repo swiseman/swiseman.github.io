@@ -9,6 +9,6 @@ redirect_from:
 ---
 I'm a Research Assistant Professor at [TTIC](http://www.ttic.edu/), and I'm interested in natural language processing and machine learning.
 
-Before TTIC I was a PhD student in Computer Science at Harvard and a member of the [harvardnlp](http://nlp.seas.harvard.edu/papers/) group; I was advised by [Stuart Shieber](http://www.eecs.harvard.edu/shieber/) and [Sasha Rush](http://people.seas.harvard.edu/~srush/).
+Before TTIC I was a PhD student in Computer Science at Harvard and a member of the [harvardnlp](http://nlp.seas.harvard.edu/papers/) group; I was advised by [Sasha Rush](http://rush-nlp.com/) and [Stuart Shieber](http://www.eecs.harvard.edu/shieber/).
 
 Here's my [CV](http://swiseman.github.io/files/swiseman_cv.pdf).
