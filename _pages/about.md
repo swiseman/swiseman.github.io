@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Update:** I'll be joining [Duke Computer Science](https://www.cs.duke.edu/) as an assistant professor in Fall 2021.
+**Update:** I'll be joining [Duke Computer Science](https://www.cs.duke.edu/) as an assistant professor in Fall 2021, and I'm recruiting PhD students. Please feel encouraged to [apply](https://gradschool.duke.edu/admissions/application-instructions)! I'd especially like to encourage applicants from nontraditional backgrounds and communities historically underrepresented in NLP.
 
 I'm a Research Assistant Professor at [TTIC](http://www.ttic.edu/), and I'm interested in natural language processing and machine learning.
 
