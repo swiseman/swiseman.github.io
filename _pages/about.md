@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Update:** I'll be joining [Duke Computer Science](https://www.cs.duke.edu/) as an assistant professor in Fall 2021, and I'm recruiting PhD students. Please feel encouraged to [apply](https://gradschool.duke.edu/admissions/application-instructions)! I'd especially like to encourage applicants from nontraditional backgrounds and communities historically underrepresented in computer science.
 
 
-**About me:** I'm a Research Assistant Professor at [TTIC](http://www.ttic.edu/), and I'm interested in natural language processing and machine learning. Before TTIC I was a PhD student in Computer Science at Harvard and a member of the [harvardnlp](http://nlp.seas.harvard.edu/papers/) group; I was advised by [Sasha Rush](http://rush-nlp.com/) and [Stuart Shieber](http://www.eecs.harvard.edu/shieber/).
+**About me:** I'm an assistant professor at [Duke University's](https://www.duke.edu) [Department of Computer Science](https://www.cs.duke.edu/), and I'm interested in natural language processing and machine learning. Before Duke, I was a research assistant professor at [TTIC](http://www.ttic.edu/), and before that a PhD student in Computer Science at [Harvard](https://www.seas.harvard.edu), where I was advised by [Sasha Rush](http://rush-nlp.com/) and [Stuart Shieber](http://www.eecs.harvard.edu/shieber/).
 
 Here's my [CV](http://swiseman.github.io/files/swiseman_cv.pdf).
+
+**Prospective students:** I will be recruiting PhD students to begin in fall 2022. Please feel encouraged to [apply](https://gradschool.duke.edu/admissions/application-instructions)! I'd especially like to encourage applicants from nontraditional backgrounds and communities historically underrepresented in computer science.
