@@ -13,4 +13,3 @@ redirect_from:
 
 Here's my [CV](http://swiseman.github.io/files/swiseman_cv.pdf).
 
-**Prospective students:** I will be recruiting PhD students to begin in fall 2022. Please feel encouraged to [apply](https://gradschool.duke.edu/admissions/application-instructions)! I'd especially like to encourage applicants from nontraditional backgrounds and communities historically underrepresented in computer science.
